@@ -1,1 +1,1 @@
-# RMB-index2
+# RMB Index
